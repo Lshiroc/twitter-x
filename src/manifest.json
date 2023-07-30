@@ -1,0 +1,10 @@
+{
+    "manifest_version": 3,
+    "name": "My ReactJS Extension",
+    "description": "About my extension",
+    "version": "1.0",
+    "action": {
+        "default_title": "Click Me",
+        "default_popup": "popup.html"
+    }
+}
